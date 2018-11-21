@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Quick Start Guide"
-author: sal
+title:  "Choosing a domain name for your legal practice"
+author: pieter
 categories: [ Jekyll, tutorial ]
 image: assets/images/12.jpg
 featured: true
