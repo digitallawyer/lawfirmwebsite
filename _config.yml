@@ -1,7 +1,7 @@
 # Site
-name: "LawFirmWeb.Site"
-description: "Free information and resources for attorneys and law firms that want to improve their online presence."
-meta_description: "Free information and resources for attorneys and law firms that want to improve their online presence."
+name: "Law Firm Website"
+description: "Free resources to make your practice shine online"
+meta_description: "Free resources for attorneys and law firms that want to improve their online presence."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /lawfirmwebsite
