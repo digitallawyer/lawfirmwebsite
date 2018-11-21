@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Your law firm website"
+title:  "10 online essentials for the modern law firm"
 author: Pieter
 categories: [ Design, Website ]
 image: assets/images/12.jpg
@@ -8,20 +8,13 @@ featured: true
 hidden: true
 ---
 
-This is a test:
-
-```ruby
-# Install Jekyll and Bundler gems through RubyGems
-gem install jekyll bundler
-
-# Create a new Jekyll site at ./myblog
-jekyll new myblog
-
-# Change into your new directory
-cd myblog
-
-# Build the site on the preview server
-bundle exec jekyll serve
-
-# Now browse to http://localhost:4000
-```
+-- domain name
+-- professional email address
+-- law firm website
+-- google analytics
+-- online directories
+-- word processing solution
+-- getting paid
+-- case management system
+-- growing your referral network
+-- using social media
