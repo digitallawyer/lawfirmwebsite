@@ -3,7 +3,7 @@ layout: post
 title:  "Choosing a domain name for your legal practice"
 author: pieter
 categories: [ Jekyll, tutorial ]
-image: assets/images/email.jpg
+image: assets/images/domain.jpg
 ---
 
 If you already have a full Ruby development environment with all headers and RubyGems installed (see Jekyll’s requirements), you can create a new Jekyll site by doing the following:
