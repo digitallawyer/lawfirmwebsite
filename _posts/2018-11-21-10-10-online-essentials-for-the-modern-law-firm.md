@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "10 online essentials for the modern law firm"
-author: Pieter
+author: pieter
 categories: [ Design, Website ]
 image: assets/images/firm.jpg
 featured: true
