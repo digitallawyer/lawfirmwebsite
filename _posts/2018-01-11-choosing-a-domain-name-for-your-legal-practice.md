@@ -3,7 +3,7 @@ layout: post
 title:  "Choosing a domain name for your legal practice"
 author: pieter
 categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+image: assets/images/email.jpg
 featured: true
 hidden: true
 ---
