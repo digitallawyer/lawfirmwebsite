@@ -11,6 +11,14 @@ mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a
 
 # Authors
 authors:
+  pieter:
+    name: Pieter
+    display_name: Pieter
+    gravatar: 57916bfe47d56c8d82e6a30ad98e2e97
+    email: pieter@legal.io
+    web: https://www.pietergunst.be
+    twitter: https://twitter.com/digitallawyer
+    description: "Founder and CEO of Legal.io, the global attorney network with over 10,000 members in 150 cities. Interested in sharing ideas on the intersection of law and technology."
   sal:
     name: Sal
     display_name: Sal
